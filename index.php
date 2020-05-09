@@ -7,5 +7,6 @@ print 'again';
 print 'again after remote trigger';
 print 'sixth commit';
 print 'final';
+print 'testing build pipeline';
 
 ?>
