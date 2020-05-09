@@ -6,6 +6,6 @@ print 'Welcome again';
 print 'again';
 print 'again after remote trigger';
 print 'sixth commit';
-printhggfhfg 'final';
+print 'final';
 
 ?>
