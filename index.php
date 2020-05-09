@@ -1,6 +1,7 @@
 <?php
 
-print 'hello'
-print 'bye'
+print 'hello';
+print 'bye';
+print 'Welcome again';
 
 ?>
